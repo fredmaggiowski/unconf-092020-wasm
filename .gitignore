@@ -1,2 +1,3 @@
 web/wasm_exec.js
+primes/wasm_exec.js
 go/main.wasm
